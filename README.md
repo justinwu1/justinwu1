@@ -2,7 +2,8 @@
 const JN = async()=>{
  const res = await axios.get("http://www.JN.Com") // FAKE 
  console.log(res.data)
- /*
+}
+JN()
  {
 sex:male,
 programming_languages:[
@@ -15,6 +16,4 @@ Databases : PostgreSQL, MongoDB, GraphQL, Apollo
 Operating System : Linux (Ubuntu), Window
 Natural Languages : Fluent in English and Chinese (Mandarin, Cantonese); Elementary Japanese]
  }
- */
-}
 ```

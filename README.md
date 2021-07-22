@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**justinwu1/justinwu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const JN = async()=>{
+ const res = await axios.get("http://www.JN.Com") // FAKE 
+ console.log(res.data)
+ /*
+ {
+ sex:male,
+ programming_languages:[
+Front-End Development : HTML5, CSS3, JavaScript (ES6), Boostrap4, React, Redux, Mateiral-UI
+Back-End Development : NodeJS/Express, Mongoose, Sequelize
+Other Programming Languages : C, C++, Python, Java
+Technical Tools : Axios, Git, GitHub, NPM, OAuth2
+Test : Mocha, Jest
+Databases : PostgreSQL, MongoDB, GraphQL, Apollo
+Operating System : Linux (Ubuntu), Window
+Natural Languages : Fluent in English and Chinese (Mandarin, Cantonese); Elementary Japanese]
+ }
+ */
+}
+```

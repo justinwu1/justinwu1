@@ -4,8 +4,8 @@ const JN = async()=>{
  console.log(res.data)
  /*
  {
- sex:male,
- programming_languages:[
+sex:male,
+programming_languages:[
 Front-End Development : HTML5, CSS3, JavaScript (ES6), Boostrap4, React, Redux, Mateiral-UI
 Back-End Development : NodeJS/Express, Mongoose, Sequelize
 Other Programming Languages : C, C++, Python, Java

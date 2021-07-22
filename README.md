@@ -1,5 +1,7 @@
-![punch](bug.gif)  [](bug.gif)
-![punch](punch.gif)  [](punch.gif)
+![bugs](bug.gif)  [](bug.gif)
+![monkey](monkey.gif)  [](monkey.gif)
+
+
 ```
 const JN = async()=>{
  const res = await axios.get("http://www.JN.Com") // FAKE 

@@ -1,7 +1,8 @@
-![bugs](bug.gif)  [](bug.gif)
-![monkey](monkey.gif)  [](monkey.gif)
 
+
+<img src="bug.gif" />
 <div align="center">
+ <img src="monkey.gif" />
  <img src="monkeyPush.gif"/>
  </div>
 

@@ -7,6 +7,7 @@
 
 
 ```
+import axios from 'axios'
 const JN = async()=>{
  const res = await axios.get("http://www.JN.Com") // FAKE 
  console.log(res.data)

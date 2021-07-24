@@ -11,7 +11,7 @@
 ```
 import axios from 'axios'
 const JN = async()=>{
- const res = await axios.get("http://www.JN.Com") // FAKE 
+ const res = await axios.get("https://jsnwu.com")  
  console.log(res.data)
 }
 JN()

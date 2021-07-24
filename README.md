@@ -7,7 +7,9 @@
  </div>
  
 <h1 align="center"> Projects! </h1>
- 
+ <div align="center" />
+  <img src="portfolio.gif" />
+ </div>
  <div align="center">
   <img src="NCdemo.gif" />
   <img src="NCcrud.gif"/>
